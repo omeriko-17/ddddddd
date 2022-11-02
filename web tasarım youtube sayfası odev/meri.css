@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    padding-left: 20;  
+    
+}
+.header a{
+    margin-right: 600px;
+}
+.header button{
+    float: right;
+    border-radius: 20px;
+    background-color: rgb(0, 174, 255);
+    margin: 10 10;
+    padding: 10 40
+}
+.header button.hover{
+    background-color:
+
+}
+.sidebar{
+
+}
+
+.reklam{
+
+}
+
+.content{
+
+}
